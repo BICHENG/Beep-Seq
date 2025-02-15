@@ -12,7 +12,7 @@
 | ------------------ | ----------------------------------------------------- |
 | Granite3.1-moe     | bad                                                   |
 | Qwen2.5-7b         | fair                                                  |
-| **Qwen2.5-14b**    | good（>> DeepSeek-R1-Distill-Qwen-32B）               |
+| **Qwen2.5-14b**    | best（>> DeepSeek-R1-Distill-Qwen-32B）               |
 | **Qwen2.5-14b** Q4 | **good（>> DeepSeek-R1-Distill-Qwen-32B）最高性价比** |
 | Qwen2.5-32b        | good（不如14b知识稳定，偶尔幻觉）                     |
 | **Qwen2.5-72b**    | **better**（格式和质量）                              |
